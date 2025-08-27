@@ -10,7 +10,7 @@ Team project conducted as part of the [Kaggle Receptor Affinity Prediction Hacka
 ---
 
 ### 📌 My Contribution
-- Developed model result visualizations (error distribution plots, correlation matrices, model interpretation using SHAP).  
+- Developed model result visualizations (e.g. feature significance analysis, error distribution plots, correlation matrices, model interpretation using SHAP).  
 - Participated in data preprocessing and feature engineering.  
 - Collaborated on model selection and testing (scikit-learn).  
 - Documented results and prepared the final presentation.
